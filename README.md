@@ -14,7 +14,7 @@ The network is trained on 7 clips of different subjects waving their hands for 1
 ![alt text](../master/results/nosie_reduction.gif)
 
 #### GAN generated sequence with transform mask (background detials well preserved but noisy images)
-![alt text](../master/results/anchor.gif)
+![alt text](../master/results/trans_map.gif)
 
 #### GAN generated sequence with anchor img (background detials well preserved but blurry animation)
 ![alt text](../master/results/anchor.gif)
