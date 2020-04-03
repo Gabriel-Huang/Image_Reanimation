@@ -20,4 +20,4 @@ The network is trained on 7 clips of different subjects waving their hands for 1
 ![alt text](../master/results/anchor.gif)
 
 #### Newest Results Using Complementary Mask (Looking Good!)
-![alt text](../master/results/complementary_mask.gif)
+![alt text](../master/results/complementary\mask.gif)
