@@ -1,4 +1,6 @@
-# image-reanimation
+# Image-Reanimation
+
+### This is a fun project I created for generating GIFs from single image inputs.
 
 ## Preliminary Results:
 The network is trained on 7 clips of different subjects waving their hands for 100 epochs (5 min training time)
