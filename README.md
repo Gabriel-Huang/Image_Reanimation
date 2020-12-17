@@ -23,4 +23,4 @@ The network is trained on 7 clips of different subjects waving their hands for 1
 ![alt text](../master/results/complementary_mask.gif)
 
 #### New Results Making People Smile :)
-![alt text](../master/results/UTDAL_04654v213.gif) ![alt text](../master/results/UTDAL_04651v2131.gif.gif)
+![alt text](../master/results/UTDAL_04654v213.gif)  ![alt text](../master/results/UTDAL_04651v2131.gif)
